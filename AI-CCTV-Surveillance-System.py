@@ -388,7 +388,7 @@ model = load_model()
 # ─────────────────────────────────────────────────────────────────────────────
 if st.session_state.run:
 
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(1)
     line_y = line_y_setting
 
     while cap.isOpened() and st.session_state.run:

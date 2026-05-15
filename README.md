@@ -4,7 +4,7 @@ An advanced real-time AI-powered CCTV surveillance system built using YOLOv8, By
 
 This project performs intelligent video surveillance with real-time people detection, object tracking, crowd monitoring, intrusion detection, live analytics dashboards, and automated event logging.
 
-###🚀 Features
+### 🚀 Features
 ✅ Real-time People Detection
 ✅ Multi-Object Tracking using ByteTrack
 ✅ Live Entry & Exit Counting
@@ -16,7 +16,7 @@ This project performs intelligent video surveillance with real-time people detec
 ✅ Session Analytics & Logs
 ✅ Professional Dark UI Design
 ✅ Streamlit Web Deployment Ready
-###🧠 Technologies Used
+### 🧠 Technologies Used
 Python
 YOLOv8
 OpenCV
@@ -25,7 +25,7 @@ Plotly
 NumPy
 Pandas
 ByteTrack
-###📊 AI Capabilities
+### 📊 AI Capabilities
 
 This project uses Deep Learning and Computer Vision techniques for intelligent surveillance:
 
@@ -35,7 +35,7 @@ Real-Time Video Analytics
 Crowd Analysis
 Human Monitoring
 AI-based Security Surveillance
-###📷 System Functions
+### 📷 System Functions
 
 The system can:
 
@@ -46,7 +46,7 @@ Detect crowd situations
 Generate visual alerts
 Display real-time analytics graphs
 Monitor surveillance zones
-###🌐 Dashboard Includes
+### 🌐 Dashboard Includes
 Live CCTV Video Feed
 People Count Metrics
 Entry/Exit Statistics
@@ -54,7 +54,7 @@ Crowd Alerts
 Real-Time Graphs
 Session Summary
 Activity Logs
-###▶️ Run Project
+### ▶️ Run Project
 
 Install dependencies:
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 Run Streamlit app:
 
 streamlit run Final_AI_CCTV_project.py
-###📌 Future Improvements
+### 📌 Future Improvements
 Face Recognition
 Weapon Detection
 Fire & Smoke Detection
@@ -71,12 +71,12 @@ Email/SMS Alerts
 Database Integration
 Cloud CCTV Monitoring
 Multi-Camera Support
-###👨‍💻 Developer
+### 👨‍💻 Developer
 
 Umar Saeed Jan
 AI / Machine Learning Enthusiast
 Pakistan
 
-###⭐ Project Type
+### ⭐ Project Type
 
 Deep Learning + Computer Vision + Real-Time AI Surveillance System

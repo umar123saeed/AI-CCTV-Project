@@ -5,26 +5,26 @@ An advanced real-time AI-powered CCTV surveillance system built using YOLOv8, By
 This project performs intelligent video surveillance with real-time people detection, object tracking, crowd monitoring, intrusion detection, live analytics dashboards, and automated event logging.
 
 ### 🚀 Features
-✅ Real-time People Detection
-✅ Multi-Object Tracking using ByteTrack
-✅ Live Entry & Exit Counting
-✅ Crowd Density Monitoring
-✅ Intrusion Detection Alerts
-✅ Real-Time Analytics Dashboard
-✅ Interactive Plotly Charts
-✅ Live CCTV Feed in Browser
-✅ Session Analytics & Logs
-✅ Professional Dark UI Design
-✅ Streamlit Web Deployment Ready
+- Real-time People Detection
+- Multi-Object Tracking using ByteTrack
+- Live Entry & Exit Counting
+- Crowd Density Monitoring
+- Intrusion Detection Alerts
+- Real-Time Analytics Dashboard
+- Interactive Plotly Charts
+- live CCTV Feed in Browser
+- Session Analytics & Logs
+- Professional Dark UI Design
+- Streamlit Web Deployment Ready
 ### 🧠 Technologies Used
-Python
-YOLOv8
-OpenCV
-Streamlit
-Plotly
-NumPy
-Pandas
-ByteTrack
+- Python
+- YOLOv8
+- OpenCV
+- Streamlit
+- Plotly
+- NumPy
+- Pandas
+- ByteTrack
 ### 📊 AI Capabilities
 
 This project uses Deep Learning and Computer Vision techniques for intelligent surveillance:

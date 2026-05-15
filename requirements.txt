@@ -7,3 +7,5 @@ numpy
 lap
 torch
 torchvision
+streamlit-webrtc
+av
